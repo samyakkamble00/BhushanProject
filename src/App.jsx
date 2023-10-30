@@ -5,6 +5,8 @@ import './App.css'
 import About from './Component/About';
 import Skill from './Component/Skill';
 import Footer from './Component/Footer';
+
+
 const App = () => {
   return (
     <div>
