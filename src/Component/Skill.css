@@ -1,0 +1,20 @@
+
+#skill{
+    width: 80%;
+    margin: auto;
+    color: white;
+    height: fit-content;
+    
+}
+#skill1{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#skill1 h1{ 
+    justify-content: center;
+    align-items: center;
+    margin-right: 10rem;
+}

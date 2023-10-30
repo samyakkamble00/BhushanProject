@@ -1,0 +1,32 @@
+
+#navbar{
+    width: 80%;
+    height: 4rem;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#navName{
+    font-size: 2rem;
+    font-weight: 900;
+    font-style: italic;
+    font-variant: small-caps;
+    border-bottom: 0.3rem solid rgb(70, 53, 43);
+}
+#navList,#navListIcon{
+    width: 20rem;
+    display: flex;
+    padding: 1rem;
+    list-style: none;
+    align-items: center;
+    justify-content: space-around;
+    font-size: x-large;
+}
+#navList li,#navListIcon li{
+    cursor: pointer;
+}
+
+button{
+    cursor: pointer;
+}

@@ -1,0 +1,23 @@
+#Home{
+    background-image: url("https://images.pexels.com/photos/14655171/pexels-photo-14655171.jpeg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 90dvh;
+    
+    color: white;
+    font-size: 3rem;
+}
+#btn-contactMe{
+    background-color: transparent;
+    color: inherit;
+    border: none;
+    border: 0.3rem solid white;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    border-radius: 0.5rem;
+}
+
+#Home-info{
+    padding: 1rem;
+}
